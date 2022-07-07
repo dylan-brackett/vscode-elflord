@@ -1,6 +1,7 @@
 {
     "name": "vscode-elflord",
     "author": "dylan-brackett",
+    "publisher": "dylan-brackett",
     "displayName": "vscode-elflord",
     "description": "A port of the Elflord theme from VIM.",
     "version": "1.0.0",
