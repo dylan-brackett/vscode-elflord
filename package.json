@@ -1,0 +1,21 @@
+{
+    "name": "vscode-elflord",
+    "displayName": "vscode-elflord",
+    "description": "A port of the Elflord theme from VIM.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.68.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Elflord",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Elflord-color-theme.json"
+            }
+        ]
+    }
+}
