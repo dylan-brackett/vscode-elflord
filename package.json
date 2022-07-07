@@ -1,8 +1,10 @@
 {
     "name": "vscode-elflord",
+    "author": "dylan-brackett",
     "displayName": "vscode-elflord",
     "description": "A port of the Elflord theme from VIM.",
-    "version": "0.0.1",
+    "version": "1.0.0",
+    "repository": "https://github.com/dylan-brackett/vscode-elflord",
     "engines": {
         "vscode": "^1.68.0"
     },
